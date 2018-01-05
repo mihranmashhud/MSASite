@@ -4,7 +4,7 @@ import Router from 'vue-router'
 import Home from './../components/Home'
 import QandA from './../components/QandA'
 import Meetings from './../components/Meetings'
-import signup from './../components/SignUp'
+import SignUp from './../components/SignUp'
 
 Vue.use(Router)
 
