@@ -1,11 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 //import components
-import Home from './Home'
-import About from './About'
-import QandA from './QandA'
-import meetings from './Meetings'
-import signup from './SignUp'
+import Home from './../component/Home'
+import QandA from './../component/QandA'
+import meetings from './../component/Meetings'
+import signup from './../component/SignUp'
 
 Vue.use(Router)
 
@@ -15,11 +14,7 @@ export default new Router({
       path: '/',
       name: 'Home',
       component: Home
-    },{
-      path: '/About',
-      name: 'About',
-      component: About
-    },{
+    }, {
       path: '/QandA',
       name: 'QandA',
       component: QandA
