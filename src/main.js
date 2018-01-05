@@ -9,7 +9,7 @@ import App from './App'
 import router from './router'
 
 Vue.use(Vuetify, { theme: {
-  primary: '#ee44aa',
+  primary: '#009fff',
   secondary: '#424242',
   accent: '#82B1FF',
   error: '#FF5252',
