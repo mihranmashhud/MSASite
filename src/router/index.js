@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 //import components
-import Home from './../component/Home'
-import QandA from './../component/QandA'
-import meetings from './../component/Meetings'
-import signup from './../component/SignUp'
+import Home from './../components/Home'
+import QandA from './../components/QandA'
+import meetings from './../components/Meetings'
+import signup from './../components/SignUp'
 
 Vue.use(Router)
 
