@@ -7,7 +7,9 @@ import 'vuetify/dist/vuetify.css'
 
 import App from './App'
 import router from './router'
-
+import About 
+import Home
+import Q and A
 Vue.use(Vuetify, { theme: {
   primary: '#ee44aa',
   secondary: '#424242',
