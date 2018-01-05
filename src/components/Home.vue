@@ -1,6 +1,6 @@
 <template>
-    <div id="main">
-
+    <div class="blue">
+     <p class="mt-1">HELOOO</p>
     </div>
 </template>
 
@@ -11,7 +11,5 @@
 </script>
 
 <style scoped>
-.main{
-    background-color: rgb(185, 218, 255);
-}
+
 </style>
