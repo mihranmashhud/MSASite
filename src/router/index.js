@@ -18,14 +18,15 @@ export default new Router({
       path: '/QandA',
       name: 'QandA',
       component: QandA
-    },{
+    }, {
       path: '/Meetings',
       name: 'Meetings',
       component: Meetings
-    },{
+    }, {
       path: '/SignUp',
       name: 'SignUp',
       component: SignUp
     }
-  ]
+  ],
+  mode: 'history'
 })
