@@ -10,6 +10,8 @@
         <v-btn flat href="/SignUp">SignUp</v-btn>
       </v-toolbar-items>
     </v-toolbar>
+    <router-view>
+    </router-view>
   </v-app>
 </template>
 
